@@ -17,9 +17,6 @@ Tools Used:
  ->Simulation waveform analysis
 
  Results:
- <img width="1015" height="723" alt="image" src="https://github.com/user-attachments/assets/98092b62-a4ac-40be-9dfc-60606e125432" />
-
-
  ->Verified correct operation for all input combinations
 
  ->Observed carry propagation delay behavior
